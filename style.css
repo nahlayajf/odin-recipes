@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+.homepage-content {
+    outline: 3px solid black;
+    margin: 50px;
+}
+
+.homepage-title {
+    font-family: Impact, "Haettenschweiler", 'Arial Narrow Bold', sans-serif;
+    margin: auto;
+    padding: 5px;
+}
+
+.recipe-links {
+    display: inline-block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 5px;
+}
+
+div {
+    padding: 10px;
+    Margin-bottom: 15px
+}
+
+h2 {
+    outline: solid black;
+    display: inline;
+    height: 45px;
+    width: 100px;
+    padding: 3px;
+}
+
+.main-title {
+    outline: 4px solid black;
+    margin-bottom: 25px;
+    height: 40px;
+    width: 400px;
+    padding: 5px;
+
+}
+
+.introduction {
+    background-color: lightblue;
+    outline: solid blue;
+}
+
+.ingredients {
+    background-color: lightgreen;
+    outline: solid green
+}
+
+.instructions {
+    background-color: lightpink;
+    outline: solid red;
+}
+
+.recipe-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.recipe-image {
+    outline: 4px solid black;
+}
